@@ -1,4 +1,4 @@
-# SFDX  App - This is in New Branch 1.2
+# SFDX  App - This is from new branch 2
 
 ## Dev, Build and Test
 
